@@ -41,3 +41,10 @@ textarea {
     border-radius: 5px;
     border: 1px solid #ccc;
 }
+.blog-form a{
+    background-color: #00274d;
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}

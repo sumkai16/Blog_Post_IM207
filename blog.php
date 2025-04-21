@@ -30,6 +30,7 @@ if(isset($_POST['submit'])) {
 <body>
     <div class = "blog-form">
         <form method="POST" action="blog.php">
+         <a href="index.php">Go Back</a>
             <p>
                 <?php 
                 if (isset($_SESSION['user']) && isset($_SESSION['user']['first_name'])) {

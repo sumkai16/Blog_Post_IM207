@@ -110,3 +110,9 @@ body {
     margin: 10px 0;
     color: #003366;
 }
+.blog-form a{
+    background-color: #00274d;
+    padding: 15px;
+    border-radius: 5px;
+    
+}
